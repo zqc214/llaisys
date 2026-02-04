@@ -32,4 +32,4 @@ void add(tensor_t c, tensor_t a, tensor_t b) {
         EXCEPTION_UNSUPPORTED_DEVICE;
     }
 }
-} // namespace llaisys::ops
+} 
